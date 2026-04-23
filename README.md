@@ -1,4 +1,9 @@
+<p align="center">
+  <img src="screenshots/banner.png" width="100%">
+</p>
+
 # CareerCompass – AI-Powered Career Guidance System
+
 
 CareerCompass is a web-based career guidance platform designed to help students and graduates make informed career decisions through AI-driven recommendations. It analyzes user skills, interests, and academic background to generate personalized career insights.
 
