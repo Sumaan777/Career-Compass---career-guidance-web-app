@@ -56,4 +56,4 @@ User → Laravel Controller → AI Service Layer → External AI APIs → Respon
 ![Login](screenshots/login.png)
 
 ### Career Recommendations
-![Recommendations](screenshots/recommendations.png)
+![Recommendations](screenshots/Career-trend.png)
